@@ -1,16 +1,14 @@
-### Hi there 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> Hello, I'm Kobe (koh-beh)
+I am a software engineer that is mainly interested in frontend web development
 
-<!--
-**kkoobe11/kkoobe11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 What I'm Currently Working On
+i currently work as software engineer at ahglab (https://www.ahglab.com)
 
-Here are some ideas to get you started:
+## 🌱 I'm Currently Learning
+i am currently learning sveltekit, i mainly use react/next.js for my personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+bantes.kobe@gmail.com
+
+## 🌐 Connect with Me
+https://www.linkedin.com/in/kobe-priam-bantes-b6a8ba225/

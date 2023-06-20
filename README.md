@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50px"/> Hello, I'm Kobe (koh-beh)
+# <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="70px"/> Hello, I'm Kobe (koh-beh)
 I am a software engineer that is mainly interested in frontend web development
 
 ## 🔭 What I'm Currently Working On

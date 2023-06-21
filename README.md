@@ -3,6 +3,8 @@
 # <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="70px"/> Hello, I'm Kobe (koh-beh)
 I am a software engineer that is mainly interested in frontend web development
 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/kkoobe11/kkoobe11/master/img/snake.svg)
+
 ## 🔭 What I'm Currently Working On
 i currently work as software engineer at ahglab (https://www.ahglab.com)
 

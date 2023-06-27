@@ -7,7 +7,7 @@ I am a software engineer that is mainly interested in frontend web development
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-## 🔭 What I'm Currently Working On
+## 🔭 I'm Currently Working as
 i currently work as software engineer at ahglab (https://www.ahglab.com)
 
 ## 🌱 I'm Currently Learning

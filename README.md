@@ -7,14 +7,3 @@ I am a software engineer that is mainly interested in frontend web development
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-## 🔭 I'm Currently Working as
-i currently work as software engineer at ahglab (https://www.ahglab.com)
-
-## 🌱 I'm Currently Learning
-i am currently learning sveltekit, i mainly use react/next.js for my personal projects.
-
-## 📫 How to Reach Me
-bantes.kobe@gmail.com
-
-## 🌐 Connect with Me
-https://www.linkedin.com/in/kobe-priam-bantes-b6a8ba225/

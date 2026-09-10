@@ -51,6 +51,4 @@ Frontend is home. Most stacks stop at the API. I keep going until the lead is bo
   <a href="https://triplebird.nl">Triplebird</a>
   ·
   <a href="https://www.sitesfied.com">Sitesfied</a>
-  ·
-  <a href="https://www.kobebantes.me">kobebantes.me</a>
 </p>

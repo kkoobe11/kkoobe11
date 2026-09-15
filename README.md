@@ -10,18 +10,6 @@ Lead software engineer in the **Netherlands**. CTO in **Belgium**.
 | [Triplebird](https://triplebird.nl) | [Sitesfied](https://www.sitesfied.com) |
 | AI, ops platforms, and n8n systems for Dutch SMEs | Product, apps, and the engineering bar for a Belgian studio |
 
-## what I build
-
-```
-lead in ──► Next.js ──► Xano / Supabase ──► n8n ──► CRM · finance · mail · WhatsApp
-```
-
-- **Product apps** — CRMs, academies, invoicing, admin tools, client portals
-- **Brand & conversion sites** — construction, restaurants, education, mobility
-- **Automation** — n8n, and Make when the client already lives there
-- **Internal tools** — the dashboards companies run on every day
-
-Lately: finance ops, field service, construction, solar, education.
 
 ## stack
 

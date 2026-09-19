@@ -14,10 +14,10 @@ Lead software engineer in the **Netherlands**. CTO in **Belgium**.
 ## stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,supabase,vercel,figma" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Node, Supabase, Vercel, Figma" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,supabase,vercel,figma,flutter,dart" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Node, Supabase, Vercel, Figma, Flutter, Dart" />
 </p>
 
-**TypeScript** · Next.js · React · Tailwind · shadcn · Xano · Supabase · n8n · Make · Stripe · Vercel
+**TypeScript** · Next.js · React · Tailwind · shadcn · Xano · Supabase · n8n · Make · Stripe · Vercel · Flutter
 
 Frontend is home. Most stacks stop at the API. I keep going until the lead is booked, the invoice is in the books, or the team gets the ping.
 
